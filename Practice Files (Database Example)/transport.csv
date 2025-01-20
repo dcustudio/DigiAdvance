@@ -1,0 +1,11 @@
+"TransportCode";"Mode";"EnergySource";"Emission"
+1;"Bus";"Petrol";105.0
+2;"Train";"Petrol";41.0
+3;"MotorBike";"Diesel";100.0
+4;"Car";"Petrol";192.0
+5;"Bike";"";0.0
+6;"Scooter";"Electric";100.0
+7;"Walk";"";0.0
+8;"Car";"Diesel";171.0
+9;"MotorBike";"Petrol";103.0
+10;"Bus";"Solar";51.0
