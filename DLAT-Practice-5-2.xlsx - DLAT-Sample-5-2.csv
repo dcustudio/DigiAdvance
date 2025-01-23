@@ -1,0 +1,36 @@
+Code,Name,County,City,Activity,Date,Start Time,Duration  (Minute),Priority,Completed,Transport,Distance (KM), Journal
+1,Jack F,Dublin,Dublin 9,Travel,7/7/2022,7;30,30,High,Yes,Bus ,5,
+1,Jack F,Dublin,Dublin 9,Lecture,7/7/2022,9:00,120,High,Yes,,,
+1,Jack F,Dublin,Dublin 9,Lecture,7/7/2022,11:00,60,High,Yes,,,
+1,Jack F,Dublin,Dublin 9,Study,7/7/2022,1:00,180,Medium,No,,,
+1,Jack F,Dublin,Dublin 9,Travel,7/7/2022,5:00,30,Medium,Yes, Bus,5,This is an amazing day. I am looking forward to meet my classmates for the first time.
+1,Jack F,Dublin,Dublin 9,Travel,7/8/2022,7:30,35,High,Yes,Bus,5,
+1,Jack F,Dublin,Dublin 9,Lab,8-Jul,9:00,180,High,Yes,,,
+1,Jack F,Dublin,Dublin 9,Sport,7/8/2022,11:00,60,Low,No,,,
+1,Jack F,Dublin,Dublin 9,Group work,7/8/2022,13:00,,Medium,Yes,Walk,3km,"Second day on campus. Now people are very serious, some already gave us assignments to submit this week."
+1,Jack F,Dublin,Dublin 9,Travel,7/7/2022,5:00,30,Medium,Yes,Bus,5,This is an amazing day. I am looking forward to meet my classmates for the first time.
+1,Jack F,Dublin,Dublin 9,Sport,7/8/2022,11:00,60,Low,No,,,
+2,Dan M,Dublin,Dublin 2,Travel,12/9/2022,8:30,30,High,Yes,Car,15,
+2,Dan M,Dublin,Dublin 3,Lecture,12/9/2022,9:00,5,High,Y,,,
+2,Dan M,Dublin,Dublin 4,Lab,12/9/2022,10:00,180,High,Yes,,,
+2,Dan M,Dublin,Dublin 5,Travel,12/9/2022,2:00p,20,No,N,Car,15,
+3,Alan AAA,Kildare,Leixlip,Travel,9/12/2022,         7:00,80,High,No,Bus,77km,
+3,Alan AAA,Kildare,Leixlip,Lab,9/12/2022,10:00,18000,High,Yes,Walking,,It was an introduction to the lab 
+3,Alan AAA,Kildare,Leixlip,Study session ,9/12/2022,12:00,60,Medium,Yes,walking,10,I met with my friend to study for the next lab 
+3,Alan AAA,Kildare,Leixlip,Lunch ,9/12/2022,13:00,60,Medium,Yes,Walking ,,
+3,Alan AAA,Kildare,Leixlip,Travel,9/12/2022,14:00,,Medium,Yes,Bus,77km ,went back home 
+3,Alan AAA,Kildare,Leixlip,Travel,9/13/2022,7:30,60,High,yes,Bus,77km,Made it to the library for the zoom class
+3,Alan AAA,Kildare,Leixlip,Lab,9/13/2022,11:00,30,High,yes,,,Finish my first lab for second year
+3,Alan AAA,Kildare,Leixlip,lecture,9/13/2022,4:00,60,High,yes,,,
+3,Alan AAA,Kildare,Leixlip,travel,9/13/2022,5:15,60,High,yes,Bus,77km,went back home after a long day
+3,Alan AAA,Kildare,Leixlip,Lunch ,9/12/2022,13:00,60,Medium,Yes,Walking ,,
+3,Alan AAA,Kildare,Leixlip,Travel,9/12/2022,14:00,3hrs,Medium,Yes,Bus,77km ,went back home 
+3,Alan AAA,Kildare,Leixlip,Travel,9/13/2022,7:30,80,High,yes,Bus,77km,Made it to the library for the zoom class
+1,Jack F,Dublin,Dublin 9,Study,7/7/2022,1:00,180,Medium,No,,,
+1,Jack F,Dublin,Dublin 9,Travel,7/7/2022,5:00,30,Medium,Yes,Bus,5,This is an amazing day. I am looking forward to meet my classmates for the first time.
+1,Jack F,Dublin,Dublin 9,Travel,7/8/2022,7:30,35,High,Yes,Bus,5,
+1,Jack F,Dublin,Dublin 9,Lab,8-Jul,9:00,180,High,Yes,,,
+3,Alan AAA,Kildare,Leixlip,lecture,9/13/2022,4:00,60,High,yes,,,
+3,Alan AAA,Kildare,Leixlip,travel,9/13/2022,5:15,60,High,yes,Bus,77km,went back home after a long day
+3,Alan AAA,Kildare,Leixlip,Lunch ,9/12/2022,13:00,60,Medium,Yes,Walking ,,
+3,Alan AAA,Kildare,Leixlip,Travel,9/12/2022,14:00,3hrs,Medium,Yes,Bus,77km ,went back home 
