@@ -1,0 +1,11 @@
+Code,Name,County,City,Activity,Date,Start Time,Duration  (Minute),Priority,Completed,Transport,Distance (KM), Journal
+1,Jack F,Dublin,Dublin 9,Travel,7/7/2022,7;30,30,High,Yes,Bus,5,
+1,Jack F,Dublin,Dublin 9,Lecture,7/7/2022,9:00,120,High,Yes,,,
+1,Jack F,Dublin,Dublin 9,Lecture,7/7/2022,11:00,60,High,Yes,,,
+1,Jack F,Dublin,Dublin 9,Study,7/7/2022,1:00,180,Medium,No,,,
+1,Jack F,Dublin,Dublin 9,Travel,7/7/2022,5:00,30,Medium,Yes,Bus,5,This is an amazing day. I am looking forward to meet my classmates for the first time.
+1,Jack F,Dublin,Dublin 9,Travel,7/8/2022,7:30,35,High,Yes,Bus,5,
+1,Jack F,Dublin,Dublin 9,Lab,8-Jul,9:00,180,High,Yes,,,
+1,Jack F,Dublin,Dublin 9,Sport,7/8/2022,11:00,60,Low,Yes,,,
+1,Jack F,Dublin,Dublin 9,Leisure,7/8/2022,12:00:00 PM,50,Low,Yes,,,
+1,Jack F,Dublin,Dublin 9,Group work,7/8/2022,13:00,3:00,Medium,No,Walk,3km,"Second day on campus. Now people are very serious, some already gave us assignments to submit this week."
