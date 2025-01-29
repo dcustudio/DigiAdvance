@@ -1,0 +1,64 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4924864d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#!/usr/bin/env python3\n",
+    "# This program contains several expressions. \n",
+    "# Manually go through each line and write the output \n",
+    "# of each line. Later, run the code on your machine and compare\n",
+    "# the output with your previous result.\n",
+    "\n",
+    "\n",
+    "product = 'MacBook Pro'\n",
+    "print(\"Product:\", product)\n",
+    "\n",
+    "price = 2750\n",
+    "print(\"Price:\", price)\n",
+    "\n",
+    "units = 5\n",
+    "print(\"Units:\", units)\n",
+    "\n",
+    "total_price = price * units\n",
+    "print(\"Total\", total_price)\n",
+    "\n",
+    "# is the price greater than 500?\n",
+    "print(price > 500)\n",
+    "\n",
+    "# is the price 500?\n",
+    "print(price == 500)\n",
+    "\n",
+    "# is the total price less than or equal to 5000?\n",
+    "print(total_price <= 5000)\n",
+    "\n",
+    "discount = total_price - total_price * 0.15\n",
+    "print(discount)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
